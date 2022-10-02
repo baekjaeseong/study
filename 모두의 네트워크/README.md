@@ -1,5 +1,5 @@
 # 목차
-## 1. 네트워크 첫걸음
+## 1. 네트워크 첫걸음(https://github.com/baekjaeseong/study/blob/main/%EB%AA%A8%EB%91%90%EC%9D%98%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%B2%AB%EA%B1%B8%EC%9D%8C.md)
 ### 0. 네트워크 입문 강의 개강!
 ### 1. 네트워크 구조.
 ### 2. 정보의 양을 나타내는 단위
